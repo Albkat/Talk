@@ -3,15 +3,15 @@
 
 <svg
    width="122.90728mm"
-   height="80.881584mm"
-   viewBox="0 0 122.90728 80.881584"
+   height="84.719765mm"
+   viewBox="0 0 122.90728 84.719765"
    version="1.1"
    id="svg5"
    sodipodi:docname="figure9.svg"
-   inkscape:export-filename="/home/albert/talk/1/image/figure9.png"
+   inkscape:export-filename="SCF.png"
    inkscape:export-xdpi="178.59375"
    inkscape:export-ydpi="178.59375"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,15 +27,17 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:object-nodes="true"
-     inkscape:zoom="1"
-     inkscape:cx="154"
-     inkscape:cy="97"
+     inkscape:zoom="2"
+     inkscape:cx="255.5"
+     inkscape:cy="191.75"
      inkscape:window-width="1846"
-     inkscape:window-height="1043"
+     inkscape:window-height="1136"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <marker
@@ -109,15 +111,26 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-2.9706861,-1.1663488)">
+     transform="translate(-2.9706861,2.6718302)">
     <rect
-       style="opacity:1;fill:#f3f4f2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:1;fill:#f3f4f2;fill-opacity:1;stroke:#000000;stroke-width:0.712928;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect219463"
-       width="118.69211"
-       height="18.211485"
-       x="5.2826471"
-       y="12.435867"
-       ry="4.4754415"
+       width="59.391003"
+       height="18.498556"
+       x="3.4386055"
+       y="12.392962"
+       ry="4.545989"
+       inkscape:export-filename="/home/albert/talk/1/image/figure9.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#f3f4f2;fill-opacity:1;stroke:#000000;stroke-width:0.712642;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect219463-3"
+       width="59.34235"
+       height="18.498844"
+       x="65.96904"
+       y="12.392818"
+       ry="4.5460591"
        inkscape:export-filename="/home/albert/talk/1/image/figure9.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -126,7 +139,7 @@
        id="rect121848-3"
        width="59.184071"
        height="32.071064"
-       x="66.298935"
+       x="66.04818"
        y="33.843563"
        ry="5.3153386"
        rx="5.184536"
@@ -138,8 +151,8 @@
        id="rect121848-3-5"
        width="59.186813"
        height="31.847254"
-       x="3.3642716"
-       y="33.84219"
+       x="3.5407002"
+       y="33.955467"
        ry="5.278245"
        rx="5.1847763"
        inkscape:export-filename="/home/albert/talk/1/image/figure9.png"
@@ -147,23 +160,23 @@
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ff0000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:markers stroke fill"
-       x="65.357162"
-       y="6.4028974"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ff0000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:markers stroke fill"
+       x="64.583496"
+       y="6.934648"
        id="text9318"
        inkscape:export-filename="/home/albert/talk/1/image/figure9.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan9316"
-         style="font-size:7.05556px;fill:#000000;stroke-width:0"
-         x="65.357162"
-         y="6.4028974">SCF</tspan></text>
+         style="font-size:9.87778px;fill:#ff0000;stroke-width:0"
+         x="64.583496"
+         y="6.934648">SCF</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:markers stroke fill"
-       x="35.75703"
-       y="26.979908"
+       x="34.163784"
+       y="18.993317"
        id="text35746"
        inkscape:export-filename="/home/albert/talk/1/image/figure9.png"
        inkscape:export-xdpi="96"
@@ -171,8 +184,8 @@
          sodipodi:role="line"
          id="tspan35744"
          style="font-size:4.93889px;stroke-width:0"
-         x="35.75703"
-         y="26.979908">FC = SCε (<tspan
+         x="34.163784"
+         y="18.993317">FC = SCε (<tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
    id="tspan250967">general</tspan>)</tspan></text>
     <text
@@ -192,8 +205,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#f3f4f2;fill-opacity:1;stroke:#ff0000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       x="91.934357"
-       y="26.979908"
+       x="34.163784"
+       y="26.943735"
        id="text161205"
        inkscape:export-filename="/home/albert/talk/1/image/figure9.png"
        inkscape:export-xdpi="96"
@@ -201,8 +214,8 @@
          sodipodi:role="line"
          id="tspan161203"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="91.934357"
-         y="26.979908">F'C'=C'ε (<tspan
+         x="34.163784"
+         y="26.943735">F'C'=C'ε (<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
    id="tspan256195"><tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"
@@ -229,29 +242,6 @@
          style="fill:#000000;stroke-width:0"
          x="9.6012936"
          y="8.1727133" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:#f3f4f2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-       x="62.698235"
-       y="18.371996"
-       id="text241590"
-       inkscape:export-filename="/home/albert/talk/1/image/figure9.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         id="tspan241588"
-         style="fill:#ff0000;stroke-width:0"
-         x="62.698235"
-         y="18.371996">Eigenvalue problem</tspan></text>
-    <path
-       style="opacity:0.591016;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.865;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#DistanceEnd)"
-       d="m 64.805433,21.72194 0.01098,6.829953"
-       id="path278660"
-       inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/albert/talk/1/image/figure9.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;opacity:1;fill:#d2fca8;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
@@ -288,7 +278,7 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan411288"
-         style="fill:#000000;stroke-width:0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';fill:#000000;stroke-width:0"
          x="32.990204"
          y="47.572006">dsyev</tspan></text>
     <text
@@ -302,7 +292,7 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan414372"
-         style="stroke-width:0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New';stroke-width:0"
          x="96.129028"
          y="47.572006">dgemm</tspan></text>
     <text
@@ -419,5 +409,21 @@
          style="stroke-width:0"
          x="98.729362"
          y="81.020607">large </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.45081px;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:0.788235;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.913725;paint-order:markers stroke fill"
+       x="95.77388"
+       y="20.028395"
+       id="text8181"><tspan
+         sodipodi:role="line"
+         id="tspan8179"
+         style="text-align:center;text-anchor:middle;stroke-width:0"
+         x="95.77388"
+         y="20.028395">Density matrix </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0"
+         x="95.77388"
+         y="26.569366"
+         id="tspan8318">purification</tspan></text>
   </g>
 </svg>

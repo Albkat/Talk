@@ -9,7 +9,7 @@
    height="96mm"
    width="128mm"
    inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
-   inkscape:export-filename="figure11.png"
+   inkscape:export-filename="purification2.png"
    inkscape:export-xdpi="218.28125"
    inkscape:export-ydpi="218.28125"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,9 +28,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.2652217"
-     inkscape:cx="186.51596"
-     inkscape:cy="182.76357"
+     inkscape:zoom="1.6017536"
+     inkscape:cx="144.21694"
+     inkscape:cy="272.82598"
      inkscape:window-width="1846"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -2048,7 +2048,7 @@
        x="0.17644405"
        y="0.25512773" />
     <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.603189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       style="display:none;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.603189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
        id="rect898278"
        width="127.6394"
        height="47.95282"
@@ -2076,7 +2076,7 @@
          y="5.4587994">Grand Canonical Purification</tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:4.93889px;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ff0000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       style="font-weight:bold;font-size:4.93889px;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;display:none;fill:#ff0000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
        x="64.899712"
        y="54.354126"
        id="text4210-3"><tspan
@@ -2109,11 +2109,11 @@
          y="41.446224"> </tspan></text>
     <path
        id="rect6466"
-       style="fill:url(#pattern6473);stroke:none;stroke-width:0.264583"
+       style="display:none;fill:url(#pattern6473);stroke:none;stroke-width:0.264583"
        d="m 35.379831,63.392404 v 8.993251 h 57.126745 v -8.993251 z" />
     <path
        id="path6468"
-       style="fill:url(#pattern6471);stroke:none;stroke-width:0.264583"
+       style="display:none;fill:url(#pattern6471);stroke:none;stroke-width:0.264583"
        d="M 36.266402,65.643075 H 93.393147 V 58.490541 H 36.266402 Z" />
     <g
        transform="matrix(0.352778,0,0,0.352778,55.320621,38.236407)"
@@ -2388,7 +2388,8 @@
        ns24:alignment="middle center"
        ns24:inkscapeversion="1.1.2"
        ns24:jacobian_sqrt="0.352778"
-       id="g7606-2">
+       id="g7606-2"
+       style="display:none">
       <defs
          id="id-dc3301a1-5293-4262-b92e-f1e208b000f2-9">
         <g
@@ -2485,7 +2486,8 @@
       </defs>
       <g
          id="id-a3609fcc-669b-4151-8b1b-9cc0cfe1055a-2"
-         transform="translate(-278.514,-139.236)">
+         transform="translate(-278.514,-139.236)"
+         style="display:inline">
         <g
            style="fill:#000000;fill-opacity:1"
            id="id-19383f2e-e7ca-4b5b-9cac-76eb527cc5da-8">
@@ -2613,7 +2615,7 @@
       </g>
     </g>
     <path
-       style="fill:#ff8080;fill-opacity:0.00702186;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#Arrow1-5);paint-order:markers stroke fill"
+       style="display:none;fill:#ff8080;fill-opacity:0.00702186;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#Arrow1-5);paint-order:markers stroke fill"
        id="path7674-6"
        sodipodi:type="arc"
        sodipodi:cx="67.8321"
@@ -2626,7 +2628,7 @@
        d="m 94.605215,72.193697 a 42.88382,9.0845804 0 0 1 14.838795,9.292734 42.88382,9.0845804 0 0 1 -33.684132,6.731871"
        sodipodi:open="true" />
     <path
-       style="fill:#ff8080;fill-opacity:0.00702186;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Arrow1-5);paint-order:markers stroke fill"
+       style="display:none;fill:#ff8080;fill-opacity:0.00702186;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Arrow1-5);paint-order:markers stroke fill"
        id="path7674-3-5"
        sodipodi:type="arc"
        sodipodi:cx="-59.932205"
@@ -2846,7 +2848,7 @@
        ns24:inkscapeversion="1.2.2"
        ns24:jacobian_sqrt="0.352778"
        id="g12594"
-       style="fill:#0000ff">
+       style="display:none;fill:#0000ff">
       <defs
          id="id-e748b91f-ad46-420f-93eb-b4960ae81724">
         <g
@@ -3059,5 +3061,20 @@
         </g>
       </g>
     </g>
+    <path
+       style="display:inline;fill:#fe3432;fill-opacity:1;stroke:#000000;stroke-width:0.141;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.913725;paint-order:markers stroke fill"
+       d="m 80.941223,32.821806 v -0.333398 h -3.468854 -3.468854 v -0.103241 -0.103238 h 3.467185 3.467184 l 0.01199,-0.327051 0.01199,-0.327049 0.621258,0.358021 c 0.341688,0.196914 0.629727,0.371906 0.640085,0.388877 0.0167,0.02736 -0.253291,0.194103 -1.044538,0.645125 l -0.237453,0.13535 z"
+       id="path17819" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;display:inline;fill:#ff0000;fill-opacity:0.788235;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.913725;paint-order:markers stroke fill"
+       x="88.959396"
+       y="33.181404"
+       id="text17823"><tspan
+         sodipodi:role="line"
+         id="tspan17821"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.1;stroke-dasharray:none"
+         x="0"
+         y="0">guess</tspan></text>
   </g>
 </svg>
